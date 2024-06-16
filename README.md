@@ -1,1 +1,1 @@
-O Dgt Bíblia é um aplicativo para Android que permite o acesso offline à Bíblia, com uma pesquisa sensível ao conteúdo para facilitar a busca de informações. Além disso, oferece a função de gerar páginas e versículos aleatórios, e também a opção de leitura em áudio.
+O Dgt Bíblia é um aplicativo para Android e Windows que permite o acesso offline à Bíblia, com uma pesquisa sensível ao conteúdo para facilitar a busca de informações. Além disso, oferece a função de gerar páginas e versículos aleatórios, e também a opção de leitura em áudio.
